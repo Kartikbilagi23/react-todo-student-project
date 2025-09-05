@@ -10,13 +10,6 @@ A simple yet polished TODO list application built with React. Inspired by a **Co
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
   - [Running Locally](#running-locally)  
-- [Usage](#usage)  
-- [Features & Enhancements](#features--enhancements)  
-- [What I Learned](#what-i-learned)  
-- [Acknowledgements](#acknowledgements)  
-- [Roadmap](#roadmap)  
-- [License](#license)
-
 ---
 
 ## About the Project
